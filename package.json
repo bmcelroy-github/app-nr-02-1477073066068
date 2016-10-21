@@ -1,5 +1,5 @@
 {
-    "name"         : "node-red-bluemix-starter",
+    "name"         : "app-nr-02-new",
     "version"      : "0.5.0",
     "dependencies": {
         "when": "~3.x",

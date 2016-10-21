@@ -1,4 +1,4 @@
 .DS_store
 .npm
 .project
-node_modules
+NODE_MODULES
